@@ -1,4 +1,3 @@
----
 title: "ASI04 - Agentic Supply Chain Vulnerabilities"
 description: "Agentic systems expose new supply-chain risks by dynamically loading tools, prompts, and plugins at runtime, enabling attackers to compromise agent behavior via upstream or lateral components."
 authors:
